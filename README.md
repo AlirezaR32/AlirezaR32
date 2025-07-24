@@ -1,5 +1,4 @@
-
-![Header](https://github.com/user-attachments/assets/23238f4c-0181-473d-9ab7-21ec131027ad)
+<img width = '800px' src='https://github.com/user-attachments/assets/23238f4c-0181-473d-9ab7-21ec131027ad'><img/>
 ## 👋 About Me ##
 Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in programming and technology.With a strong background in mathematics and problem-solving, I enjoy tackling coding challenges and exploring new technologies.
 ---
