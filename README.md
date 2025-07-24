@@ -29,6 +29,8 @@ Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in prog
 ---
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 ---
+![AlirezaR32's Stats](https://github-readme-stats.vercel.app/api?username=AlirezaR32&theme=tokyonight&show_icons=true&hide_border=true&count_private=false) 
+![AlirezaR32's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaR32&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **AlirezaR32/AlirezaR32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
