@@ -25,6 +25,7 @@ Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in prog
 ---
 ### 📫 How to Reach Me
 * **Email:** [alireza.13rafe@gmail.com](mailto:alireza.13rafe@gmail.com)
+* **Telegram:** [@AlirezaR32](https://t.me/AlirezaR32)
 ---
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 ---
