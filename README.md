@@ -1,4 +1,4 @@
-<img width = '800px' src='https://github.com/user-attachments/assets/23238f4c-0181-473d-9ab7-21ec131027ad'><img/>
+<img width = '8000px' src='https://github.com/user-attachments/assets/23238f4c-0181-473d-9ab7-21ec131027ad'><img/>
 ## 👋 About Me ##
 Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in programming and technology.With a strong background in mathematics and problem-solving, I enjoy tackling coding challenges and exploring new technologies.
 ---
@@ -24,13 +24,10 @@ Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in prog
 * **Open Source Contributions:** Looking for opportunities to contribute to community-driven projects.
 ---
 ### 📫 How to Reach Me
-* **Email:** [alireza@example.com](mailto:alireza@example.com)
-* **LinkedIn:** [linkedin.com/in/alirezay](https://linkedin.com/in/alirezay)
-* **Twitter:** [@AlirezaY\_dev](https://twitter.com/AlirezaY_dev)
+* **Email:** [alireza.13rafe@gmail.com](mailto:alireza.13rafe@gmail.com)
 ---
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 ---
-<!-- Proudly created with GitHub Profile README Generator -->
 <!--
 **AlirezaR32/AlirezaR32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
