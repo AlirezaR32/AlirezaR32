@@ -17,6 +17,7 @@ Hi! I'm **Alireza**, a Computer Engineering student with a deep interest in prog
 * Advanced C++ (STL, Templates, Design Patterns)
 * JavaScript & React.js
 * Version Control Best Practices
+* PHP & MySQL
 ---
 ### 🚀 Projects & Goals
 * **Portfolio Website:** Building a personal website to showcase my projects and blog posts.
